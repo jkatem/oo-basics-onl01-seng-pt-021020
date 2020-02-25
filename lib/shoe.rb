@@ -18,9 +18,10 @@ class Shoe
   def cobble
     #new = Shoe.condition
     #new = Shoe.condtion("new")
-    Shoe.condtion=("new")
-    Shoe.condition
-
+    # Shoe.condtion=("new")
+    # Shoe.condition
+    new = condition.new("new")
+    new.condition
     puts "Your shoe is as good as new!"
 
   end
