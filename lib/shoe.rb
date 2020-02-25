@@ -24,4 +24,5 @@ class Shoe
     puts "Your shoe is as good as new!"
 
   end
+  new = Shoe.condition
 end
