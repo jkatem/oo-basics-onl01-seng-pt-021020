@@ -19,7 +19,7 @@ class Shoe
     #new = Shoe.condition
     #new = Shoe.condtion("new")
     Shoe.condtion=("new")
-    # Shoe.condition
+    Shoe.condition
 
     puts "Your shoe is as good as new!"
 
